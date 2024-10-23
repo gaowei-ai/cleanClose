@@ -1,11 +1,20 @@
 {
 	"name": "cleanFileConsole",
-	"displayName": "cleanFileConsole",
+	"displayName": "cleanFileConsole（删除文件中的所有console）",
 	"description": "删除文件中的所有console.log",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.94.0"
 	},
+	"keywords": [
+		"console",
+		"delete",
+		"clean",
+		"log",
+		"console.log",
+		"clean console",
+		"删除文件中的所有console"
+	],
 	"categories": [
 		"Other"
 	],
